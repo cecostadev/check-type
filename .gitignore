@@ -1,0 +1,6 @@
+/vendor
+/.idea
+/.vscode
+/tests/_output
+*.log
+.env
